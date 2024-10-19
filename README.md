@@ -2,9 +2,9 @@
   <h1>Hi there, I'm Adel</h1>
   
   <h4>Go Backend Developer</h4>
+  [![Telegram](https://img.shields.io/badge/Join%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ad3lyar)
 </div>
 
-[![Telegram](https://img.shields.io/badge/Join%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ad3lyar)
 
 
 
