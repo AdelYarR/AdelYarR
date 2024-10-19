@@ -18,3 +18,10 @@
 - 🌱 I’m currently learning grpc, websockets, nosql <br>
 - 📫 How to reach me: [email](mailto:adeladelyar@gmail.com) <br>
 - ⚡ Additional fact: I speak English <br>
+
+## 🛠️ Languages and Tools
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
