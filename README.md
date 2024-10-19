@@ -14,14 +14,14 @@
 </div>
 
 ## 😇 About me
-- 🔭 I’m currently working on;
-- 🌱 I’m currently learning grpc, websockets, nosql;
-- 📫 How to reach me: [email](mailto:adeladelyar@gmail.com);
-- ⚡ Additional fact: I speak English;
+- 🔭 I’m currently working on <br>
+- 🌱 I’m currently learning grpc, websockets, nosql <br>
+- 📫 How to reach me: [email](mailto:adeladelyar@gmail.com) <br>
+- ⚡ Additional fact: I speak English <br>
 
 ## 🛠️ Languages and Tools
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
