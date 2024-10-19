@@ -14,10 +14,10 @@
 </div>
 
 ## 😇 About me
-- 🔭 I’m currently working on <br>
-- 🌱 I’m currently learning grpc, websockets, nosql <br>
-- 📫 How to reach me: [email](mailto:adeladelyar@gmail.com) <br>
-- ⚡ Additional fact: I speak English <br>
+- 🔭 I’m currently working on;
+- 🌱 I’m currently learning grpc, websockets, nosql;
+- 📫 How to reach me: [email](mailto:adeladelyar@gmail.com);
+- ⚡ Additional fact: I speak English;
 
 ## 🛠️ Languages and Tools
 
