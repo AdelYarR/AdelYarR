@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<h3>About me</h3>
+## 😇 About me
 - 🔭 I’m currently working on <br>
 - 🌱 I’m currently learning grpc, websockets, nosql <br>
 - 📫 How to reach me: [email](mailto:adeladelyar@gmail.com) <br>
