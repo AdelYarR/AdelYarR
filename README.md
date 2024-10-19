@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on the social network application<br>
 - 🌱 I’m currently learning grpc, websockets, nosql <br>
 - 📫 How to reach me: [email](mailto:adeladelyar@gmail.com) <br>
-- ⚡ Additional fact: I speak English <br>
+- ⚡ Additional fact: I speak English(B2) <br>
 
 ## 🛠️ Languages and Tools
 
