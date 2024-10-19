@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Adel
+
+<h2>Go Backend Developer</h2>
 
 <!--
 **AdelYarR/AdelYarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
