@@ -4,7 +4,7 @@
   <h4>Go Backend Developer</h4>
 </div>
 
-[![Discord]
+[![Telegram](https://img.shields.io/badge/Join%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ad3lyar)
 
 
 
