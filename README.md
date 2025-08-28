@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Adel</h1>
   
-  <h4>Go Backend Developer</h4>
+  <h4>Backend Developer</h4>
 
   <a href="https://discord.gg/adell7343">
     <img src="https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"/>
@@ -12,8 +12,8 @@
 </div>
 
 ## 😇 About me
-- 🔭 I’m currently working on the social network application<br>
-- 🌱 I’m currently learning grpc, websockets, nosql <br>
+- 🔭 I’m currently working on log monitoring michroservice project<br>
+- 🌱 I’m currently learning rabbitmq <br>
 - ⚡ Additional fact: I speak English(B2) <br>
 
 ## 🛠️ Languages and Tools
@@ -24,4 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 
