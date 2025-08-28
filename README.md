@@ -12,7 +12,7 @@
 </div>
 
 ## 😇 About me
-- 🔭 I’m currently working on log monitoring michroservice project<br>
+- 🔭 I’m currently working on log monitoring microservice project<br>
 - 🌱 I’m currently learning rabbitmq <br>
 - ⚡ Additional fact: I speak English(B2) <br>
 
