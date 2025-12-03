@@ -11,11 +11,6 @@
   </a>
 </div>
 
-## 😇 About me
-- 🔭 I’m currently working on log monitoring microservice project<br>
-- 🌱 I’m currently learning rabbitmq <br>
-- ⚡ Additional fact: I speak English(B2) <br>
-
 ## 🛠️ Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
